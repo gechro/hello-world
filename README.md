@@ -1,2 +1,4 @@
 # hello-world
-A Get-Started Repository!
+A Getting-Started Repository!
+
+Hello World! My name is Geovanna. I've recently enrolled at DBC! Super excited to learn!
